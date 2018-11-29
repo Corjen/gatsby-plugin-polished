@@ -15,7 +15,6 @@ exports.onCreateBabelConfig = function (_ref, pluginOptions) {
   var stage = _ref.stage,
       actions = _ref.actions;
   var ssr = stage === "build-html" || stage === "build-javascript";
-  console.log('ADDING POLISHED');
   actions.setBabelPlugin({
     name: "babel-plugin-polished",
     stage: stage,
