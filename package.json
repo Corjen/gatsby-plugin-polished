@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-polished",
   "description": "Gatsby plugin to add polished babel plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Corjen Moll <corjen.moll@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/Corjen/gatsby-plugin-polished",
