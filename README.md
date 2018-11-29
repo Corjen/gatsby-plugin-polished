@@ -15,7 +15,7 @@ Edit `gatsby-config.js`
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-plugin-polished`,
+      resolve: `gatsby-plugin-polished`
     }
   ]
 }
