@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-polished",
   "description": "Gatsby plugin to add polished babel plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Corjen Moll <corjen.moll@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/Corjen/gatsby-plugin-polished",
@@ -11,12 +11,12 @@
     "watch": "babel -w src --out-dir . --ignore **/__tests__"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0"
+    "@babel/runtime": "^7.4.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
-    "babel-preset-gatsby-package": "^0.1.2"
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "babel-preset-gatsby-package": "^0.1.4"
   },
   "peerDependencies": {
     "babel-plugin-polished": "^1.0.0"
