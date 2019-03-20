@@ -18,6 +18,9 @@
     "@babel/core": "^7.0.0",
     "babel-preset-gatsby-package": "^0.1.2"
   },
+  "peerDependencies": {
+    "babel-plugin-polished": "^1.0.0"
+  },
   "bugs": {
     "url": "https://github.com/Corjen/gatsby-plugin-polished/issues"
   },
